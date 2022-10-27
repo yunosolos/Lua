@@ -438,6 +438,6 @@ if Game.PlaceId == 2788229376 then
         Name = "Creators",
         Content = "This was scripted and made by purest#0001 and iux#0001 Enjoy!",
         Image = "rbxassetid://7490337597",
-        Time = 1000000000
+        Time = 6
     })
     end
